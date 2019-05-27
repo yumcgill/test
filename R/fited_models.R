@@ -18,11 +18,11 @@
 #' @importFrom lme4 glmer
 #' @importFrom sjPlot tab_model
 fit_models <- function(formula, data) {
-  tj<-NULL
+  #tj<-data$tj
   fit.glmm <- lme4::glmer(formula, 
                           data = data, 
-                          family = "poisson", 
-                          offset = log(tj))
+                          family = "poisson") 
+                         # offset = log(tj))
   
   sjPlot::tab_model(fit.glmm)
   
