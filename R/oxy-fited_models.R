@@ -14,7 +14,7 @@
 #'  \code{\link[lme4]{glmer}}
 #'  \code{\link[sjPlot]{tab_model}}
 #' @rdname fit_models
-#' @export 
+# @export 
 #' @importFrom lme4 glmer
 #' @importFrom sjPlot tab_model
 fit_models <- function(formula, data) {
