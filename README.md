@@ -18,7 +18,7 @@ You can install the released version of test from
 
 ``` r
 install.packages("test")
-#this is a commetn
+#this is a comment
 ```
 
 And the development version from [GitHub](https://github.com/) with:

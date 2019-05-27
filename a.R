@@ -1,2 +1,0 @@
-data("AirPassengers")
-head(AirPassengers)
