@@ -22,6 +22,6 @@ usethis::use_news_md()
 usethis::use_travis()
 
 # sets up testing infrastructure
-#usethis::use_testthat()
+usethis::use_testthat()
 
 
