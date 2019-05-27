@@ -25,3 +25,4 @@ usethis::use_travis()
 usethis::use_testthat()
 
 devtools::document()
+usethis::use_data_raw()
