@@ -1,4 +1,4 @@
-#' @title FUNCTION_TITLE
+d#' @title FUNCTION_TITLE
 #' @description FUNCTION_DESCRIPTION
 #' @param formula PARAM_DESCRIPTION
 #' @param data PARAM_DESCRIPTION
