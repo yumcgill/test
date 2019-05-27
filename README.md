@@ -5,8 +5,6 @@
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.org/yumcgill/test.svg?branch=master)](https://travis-ci.org/yumcgill/test)
 <!-- badges: end -->
 
 The goal of test is to …
@@ -18,7 +16,6 @@ You can install the released version of test from
 
 ``` r
 install.packages("test")
-#this is a comment
 ```
 
 And the development version from [GitHub](https://github.com/) with:
